@@ -125,6 +125,7 @@ export {
   startSession,
   startSpan,
   startSpanManual,
+  systemErrorIntegration,
   tediousIntegration,
   trpcMiddleware,
   updateSpanName,
